@@ -403,6 +403,11 @@
 			"released": "both"
 		},
 		{
+			"sip": 185,
+			"layer": "both",
+			"sources": ["FeePool", "Issuer", "Synthetix", "SynthetixDebtShare"]
+		},
+		{
 			"sip": 187,
 			"layer": "both",
 			"sources": ["DebtCache", "Issuer"],
@@ -441,6 +446,11 @@
 			"sip": 196,
 			"layer": "both",
 			"sources": ["ExchangeRates"]
+		},
+		{
+			"sip": 200,
+			"layer": "both",
+			"sources": ["FeePool", "RewardsDistribution"]
 		}
 	],
 	"releases": [
