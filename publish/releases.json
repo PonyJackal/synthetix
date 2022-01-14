@@ -450,7 +450,7 @@
 		{
 			"sip": 200,
 			"layer": "both",
-			"sources": ["FeePool", "RewardsDistribution"]
+			"sources": ["FeePool"]
 		}
 	],
 	"releases": [
