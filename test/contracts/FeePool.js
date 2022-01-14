@@ -10,7 +10,6 @@ const { fastForward, toUnit, fromUnit, multiplyDecimal } = require('../utils')()
 
 const {
 	ensureOnlyExpectedMutativeFunctions,
-	onlyGivenAddressCanInvoke,
 	setStatus,
 	getDecodedLogs,
 	decodedEventEqual,
